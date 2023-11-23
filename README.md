@@ -34,6 +34,8 @@
 
 By [이스트소프트](https://m.estsoft.ai/)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
 
 
 알아 두면 좋은 말들 
