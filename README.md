@@ -43,7 +43,7 @@ By [이스트소프트](https://m.estsoft.ai/)
 이 과정에서 알게 된 [좋은 말](https://www.notion.so/oreumi/5d0c977a69cd4f3e8b70599aa91b83a1)을 확인하세요.
 
 <a href="https://opgc.me/#/users/aiexplorer515" target="_blank"><img src="https://api.opgc.me/githubs/users/aiexplorer515/tag/?theme=basic" /></a>
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 작성자 
 ---------------
