@@ -1,9 +1,9 @@
-<img src="image/python-color.svg" alt="mypy logo" width="30px"/>
+<img src="image/python-color.svg" alt="mypy logo" width="50px"/>
 
 이스트소프트 인공지능 서비스기획 과정 1기
 =======================================
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=환영합니다!&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20My%20Github!&fontSize=60" />
 
 
 
