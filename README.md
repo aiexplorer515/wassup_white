@@ -1,5 +1,6 @@
 <img src="image/python-color.svg" alt="mypy logo" width="50px"/>
 
+
 이스트소프트 인공지능 서비스기획 과정 1기
 =======================================
 
